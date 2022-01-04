@@ -2,7 +2,7 @@
 
 ![I am a Front-end Developer](https://github.com/MPGC/MPGC/blob/07aded6f4a33c0e6d6bf04972c4817ec2484db79/Maria%20Gonzalez.gif)
 
-### I'm Maria, I'm Front-end Developer and Interior Design Project Manager.
+### I'm Maria, I'm Front-end Developer.
 I have always been fascinated by technology and design and how together can help us to create a positive impact on our everyday decisions and help us to have a better quality of life for ourselves and the planet.
 This idea was the driving force that encouraged me to study software development whilst continuing to work in the world of design.
 
