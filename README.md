@@ -10,7 +10,7 @@ This idea was the driving force that encouraged me to study software development
 PHP / MYSQL / JS / JQUERY / HTML / CSS / BOOSTRAP / JAVA / ADOBE XD / GITHUB / WORDPRESS / WOOCOMMERCE / SCRUM / GOOGLE API's
 
 - 🔭 I’m currently working as Freelancer for Forma & Motiva. 
-- 🌱 I’m currently learning Angular and Google Cloud.
+- 🌱 I’m currently learning React and Google Cloud.
 - 📫 How to reach me: dampiedad@gmail.com 
 
 ### MOTTO:
