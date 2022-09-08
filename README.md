@@ -7,10 +7,10 @@ I have always been fascinated by technology and design and how together can help
 This idea was the driving force that encouraged me to study software development whilst continuing to work in the world of design.
 
 ### TECH SKILLS:  
-PHP / MYSQL / JS / JQUERY / HTML / CSS / BOOSTRAP / JAVA / ADOBE XD / GITHUB / WORDPRESS / WOOCOMMERCE / SCRUM / GOOGLE API's
+PHP / MYSQL / JS / JQUERY / HTML / CSS / BOOSTRAP / JAVA / ADOBE XD / GITHUB / WORDPRESS / WOOCOMMERCE / SCRUM 
 
 - 🔭 I’m currently working as Freelancer for Forma & Motiva. 
-- 🌱 I’m currently learning React and Google Cloud.
+- 🌱 I’m currently learning React and Google Cloud Platform.
 - 📫 How to reach me: dampiedad@gmail.com 
 
 ### MOTTO:
