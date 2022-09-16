@@ -11,7 +11,7 @@ PHP / MYSQL / JS / JQUERY / HTML / CSS / BOOSTRAP / JAVA / ADOBE XD / GITHUB / W
 
 - 🔭 I’m currently working as Freelancer for Forma & Motiva. 
 - 🌱 I’m currently learning React and Google Cloud Platform.
-- 📫 How to reach me: dampiedad@gmail.com 
+- 📫 How to reach me: mpg.cuartero@gmail.com 
 
 ### MOTTO:
 "You can achieve anything just believe in yourself"
