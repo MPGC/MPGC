@@ -11,7 +11,7 @@ PHP / MYSQL / JS / JQUERY / HTML / CSS / BOOSTRAP / JAVA / ADOBE XD / GITHUB / W
 
 - 🔭 I’m currently working as Salesforce Technical Assistant. 
 - 🌱 I’m currently learning Apex and Salesforce.
-- 📫 How to reach me: mpg.cuartero@gmail.com 
+- 📫 How to reach me: hello.mpgc@gmail.com 
 
 ### MOTTO:
 "You can achieve anything just believe in yourself"
