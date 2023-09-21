@@ -9,8 +9,8 @@ This idea was the driving force that encouraged me to study software development
 ### TECH SKILLS:  
 PHP / MYSQL / JS / JQUERY / HTML / CSS / BOOSTRAP / JAVA / ADOBE XD / GITHUB / WORDPRESS / WOOCOMMERCE / SCRUM 
 
-- 🔭 I’m currently working as Salesforce Technical Assistant. 
-- 🌱 I’m currently learning Apex and Salesforce.
+- 🔭 I’m currently working as Salesforce Junior Consultant. I also develop websites in Javascript & React for clients and for fun!
+- 🌱 I’m currently learning Apex, CRM Analytics and Salesforce.
 - 📫 How to reach me: hello.mpgc@gmail.com 
 
 ### MOTTO:
