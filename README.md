@@ -7,7 +7,7 @@ I have always been fascinated by technology and design and how together can help
 This idea was the driving force that encouraged me to study software development whilst continuing to work in the world of design.
 
 ### TECH SKILLS:  
-PHP / MYSQL / JS / JQUERY / HTML / CSS / BOOSTRAP / JAVA / ADOBE XD / GITHUB / WORDPRESS / WOOCOMMERCE / SCRUM 
+JAVASCRIPT / REACT / MYSQL / JQUERY / HTML / CSS / BOOSTRAP / JAVA / ADOBE XD / GITHUB / WORDPRESS / WOOCOMMERCE / SCRUM / APEX / LWC / TABLEAU
 
 - 🔭 I’m currently working as Salesforce Junior Consultant. I also develop websites in Javascript & React for clients and for fun!
 - 🌱 I’m currently learning Apex, CRM Analytics and Salesforce.
