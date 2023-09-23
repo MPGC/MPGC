@@ -4,7 +4,7 @@
 
 ### I'm Maria, I'm Front-end Developer.
 I have always been fascinated by technology and design and how together can help us to create a positive impact on our everyday decisions and help us to have a better quality of life for ourselves and the planet.
-This idea was the driving force that encouraged me to study software development whilst continuing to work in the world of design.
+This passion has been the driving force behind my decision to pursue a career in software development while still remaining active in the realm of design.
 
 ### TECH SKILLS:  
 JAVASCRIPT / REACT / MYSQL / JQUERY / HTML / CSS / BOOSTRAP / JAVA / ADOBE XD / GITHUB / WORDPRESS / WOOCOMMERCE / SCRUM / APEX / LWC / TABLEAU
