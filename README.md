@@ -9,8 +9,8 @@ This idea was the driving force that encouraged me to study software development
 ### TECH SKILLS:  
 JAVASCRIPT / REACT / MYSQL / JQUERY / HTML / CSS / BOOSTRAP / JAVA / ADOBE XD / GITHUB / WORDPRESS / WOOCOMMERCE / SCRUM / APEX / LWC / TABLEAU
 
-- 🔭 I’m currently working as Salesforce Junior Consultant. I also develop websites in Javascript & React for clients and for fun!
-- 🌱 I’m currently learning Apex, CRM Analytics and Salesforce.
+- 🔭 I’m currently working as Frontend Developer. I also develop websites in Javascript & React for clients and for fun!
+- 🌱 I’m currently learning React in depth.
 - 📫 How to reach me: hello.mpgc@gmail.com 
 
 ### MOTTO:
